@@ -28,7 +28,7 @@ include: ['_pages']
 markdown: kramdown
 kramdown:
   input: GFM
-theme: minima
+theme: jekyll-theme-tactile
 gems:
   - jekyll-feed
 
